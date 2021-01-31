@@ -1,0 +1,18 @@
+#ifndef MODE_DEFINE_H
+#define MODE_DEFINE_H
+
+//#define RUN_VIDEO
+//#define SHOW_RUNTIME
+
+#define DETECT_BLUE_LIGHT 1
+
+#define CAR_REAL_SCENE
+#define COLLECT_VIDEO
+#define SHOW_IMAGE
+//#define COUT_TRANSFORM_DATA
+#define COUT_ROI_SIZE
+#define DEBUG_COUT
+#define DEBUG_COUT_ANGEL
+//#define DEBUG_SPIN_COUT
+
+#endif // MODE_DEFINE_H
